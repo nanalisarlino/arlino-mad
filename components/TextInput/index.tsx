@@ -31,7 +31,7 @@ const Input = ({
       <TextInput
         style={styles.input}
         placeholder={placeholder}
-        onChangeText={onChangeText}
+        onChangeText={handleTextChange}
         keyboardType={isNumeric ? 'numeric' : keyboardType}
         maxLength={maxLength}
       />

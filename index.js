@@ -3,7 +3,12 @@
  */
 
 import {AppRegistry} from 'react-native';
+//import App from './App';
+import signin from './signin';
 import App from './App';
+import unklab from './unklab';
 import {name as appName} from './app.json';
+import signinrc from './signinrc';
+import registration from './registration';
 
-AppRegistry.registerComponent(appName, () => App);
+AppRegistry.registerComponent(appName, () => registration);

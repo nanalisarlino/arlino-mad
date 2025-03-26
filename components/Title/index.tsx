@@ -14,13 +14,10 @@ export default Title;
 const styles = StyleSheet.create({
   label: {
     fontSize: 40,
-    color: '#FBF9E4',
+    color: '#021024',
     fontWeight: '700',
     marginBottom: 20,
     marginTop: 0,
     alignItems: 'center',
-    textShadowColor: '#021024', // Warna shadow
-    textShadowOffset: {width: 2, height: 2}, // Arah bayangan
-    textShadowRadius: 3,
   },
 });

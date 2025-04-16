@@ -1,11 +1,23 @@
 import {StyleSheet, Text, View, TextInput} from 'react-native';
 import React from 'react';
 
-const Input = ({label, placeholder}) => {
+const Input = ({
+  textwelcome,
+  input,
+  value,
+  onChangeText,
+  keyboardType = 'default',
+}) => {
   return (
     <View>
-      <Text style={styles.label}>{label}</Text>
-      <TextInput placeholder={placeholder} style={styles.input} />
+      <Text style={styles.textwelcome}>{textwelcome}</Text>
+      <TextInput
+        placeholder={input}
+        style={styles.input}
+        value={value}
+        keyboardType={keyboardType}
+        onChangeText={onChangeText}
+      />
     </View>
   );
 };
@@ -13,18 +25,18 @@ const Input = ({label, placeholder}) => {
 export default Input;
 
 const styles = StyleSheet.create({
-  label: {
-    fontSize: 22,
-    color: '#021024',
-    fontWeight: '500',
-    marginBottom: 10,
-  },
   input: {
-    borderColor: '#021024',
-    borderWidth: 1,
+    borderColor: 'black',
+    borderWidth: 2,
+    fontSize: 20,
     borderRadius: 10,
-    padding: 15,
-    fontSize: 15,
-    marginBottom: 20,
+    padding: 10,
+    width: 300,
+    marginBottom: 25,
+  },
+  textwelcome: {
+    color: '#621B21',
+    fontSize: 30,
+    fontWeight: '900',
   },
 });

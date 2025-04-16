@@ -26,14 +26,13 @@
 	<true/>
 	<key>NSAppTransportSecurity</key>
 	<dict>
-	  <!-- Do not change NSAllowsArbitraryLoads to true, or you will risk app rejection! -->
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -48,5 +47,41 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>AL_LePORSCHE_PersonalUseOnly.otf</string>
+		<string>Artifact.otf</string>
+		<string>Bagrile.otf</string>
+		<string>Buljirya.otf</string>
+		<string>euphorigenic.otf</string>
+		<string>GRAVHEZ.otf</string>
+		<string>StretchPro.otf</string>
+		<string>TNanti-Demo.otf</string>
+		<string>typeecon.otf</string>
+		<string>AL_LePORSCHE_PersonalUseOnly.ttf</string>
+		<string>Androgy Demo.ttf</string>
+		<string>AstroDotBasic.ttf</string>
+		<string>Auto_Motive.ttf</string>
+		<string>BeigeWaveDemoRegular.ttf</string>
+		<string>Culinary Art.ttf</string>
+		<string>Dreambats_PersonalUseOnly.ttf</string>
+		<string>famlogs_.ttf</string>
+		<string>Hai Angellica Font.ttf</string>
+		<string>Hey Tiny Bold DEMO.ttf</string>
+		<string>Hey Tiny DEMO.ttf</string>
+		<string>Hey Tiny Thin DEMO.ttf</string>
+		<string>Jesus Christ.ttf</string>
+		<string>kameradings.ttf</string>
+		<string>moon_phases.ttf</string>
+		<string>Mountain.ttf</string>
+		<string>Poppins-Regular.ttf</string>
+		<string>RUSAK.ttf</string>
+		<string>Social Logos.ttf</string>
+		<string>Social Media Circled.ttf</string>
+		<string>Social_Shapes.ttf</string>
+		<string>Starlight Personal.ttf</string>
+		<string>TOSTADA Italic.ttf</string>
+		<string>TOSTADA.ttf</string>
+	</array>
 </dict>
 </plist>

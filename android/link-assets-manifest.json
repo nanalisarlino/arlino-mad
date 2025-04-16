@@ -1,0 +1,141 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/AL_LePORSCHE_PersonalUseOnly.otf",
+      "sha1": "8e5dc1a5a4e906705192ed8380bf7e472be231cd"
+    },
+    {
+      "path": "assets/fonts/AL_LePORSCHE_PersonalUseOnly.ttf",
+      "sha1": "d88dabf6533b5ed82a908314d94a64da8b3ee167"
+    },
+    {
+      "path": "assets/fonts/Androgy Demo.ttf",
+      "sha1": "f65270e7e70164cb1ff1fde9c88e168ae301de98"
+    },
+    {
+      "path": "assets/fonts/Artifact.otf",
+      "sha1": "71f2daf0c4a746cb85a74596ed731e49428e5f64"
+    },
+    {
+      "path": "assets/fonts/AstroDotBasic.ttf",
+      "sha1": "7e62650151ff164c90480dc6b75a1818c9042eea"
+    },
+    {
+      "path": "assets/fonts/Auto_Motive.ttf",
+      "sha1": "71d0e428a18ac7ca6b3c9b7a4b3bf9a86f22e088"
+    },
+    {
+      "path": "assets/fonts/Bagrile.otf",
+      "sha1": "96ecc874b374c22efd33802860ff0d8b62934ccb"
+    },
+    {
+      "path": "assets/fonts/BeigeWaveDemoRegular.ttf",
+      "sha1": "406fe19bc38a9d598aaa29abe75f79fe7f08dc77"
+    },
+    {
+      "path": "assets/fonts/Buljirya.otf",
+      "sha1": "4ff7ca65bf60fe095a8a98598a81fdc58fa77f87"
+    },
+    {
+      "path": "assets/fonts/Culinary Art.ttf",
+      "sha1": "f9ed40ca6e9dcaccbcbe48e2cf58b1f0546656d7"
+    },
+    {
+      "path": "assets/fonts/Dreambats_PersonalUseOnly.ttf",
+      "sha1": "730a243afb5a01081e382040c397451a853d8116"
+    },
+    {
+      "path": "assets/fonts/euphorigenic.otf",
+      "sha1": "e037ee4e3899b2a31b66f398618eeb648c2fd4cc"
+    },
+    {
+      "path": "assets/fonts/famlogs_.ttf",
+      "sha1": "741e7ccb4bdcf8d90d90e8287f6e92cfa5882304"
+    },
+    {
+      "path": "assets/fonts/GRAVHEZ.otf",
+      "sha1": "37bb94c47b8e6c66b943afcacfa29da4c3a2f8ab"
+    },
+    {
+      "path": "assets/fonts/Hai Angellica Font.ttf",
+      "sha1": "2ca5bfbc1418dcb793a229ec1528ea51af87abf6"
+    },
+    {
+      "path": "assets/fonts/Hey Tiny Bold DEMO.ttf",
+      "sha1": "049fa0c148045d79bb735e4ce1e5c9bed6efdce8"
+    },
+    {
+      "path": "assets/fonts/Hey Tiny DEMO.ttf",
+      "sha1": "28fa122cb01642b47fd8db22eba75ce492dd670b"
+    },
+    {
+      "path": "assets/fonts/Hey Tiny Thin DEMO.ttf",
+      "sha1": "7556e6b391e49e9b255178e2c7dcce111db6bd21"
+    },
+    {
+      "path": "assets/fonts/Jesus Christ.ttf",
+      "sha1": "ef9c8dc8b09459cc4b37fe98341780ac846ceeff"
+    },
+    {
+      "path": "assets/fonts/kameradings.ttf",
+      "sha1": "0b35c2ab7f86e4b57b13222bc971a9a8f1cb4948"
+    },
+    {
+      "path": "assets/fonts/moon_phases.ttf",
+      "sha1": "55b04bb30bd41889aa4142990784a8861fa34bf1"
+    },
+    {
+      "path": "assets/fonts/Mountain.ttf",
+      "sha1": "2335d295eee528d38670db58cecb2c8fc93becae"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "assets/fonts/RUSAK.ttf",
+      "sha1": "1ac5fea2d2cb01bd5a7beedbc9f816fa40123fc5"
+    },
+    {
+      "path": "assets/fonts/Social Logos.ttf",
+      "sha1": "ddc10ffe84609050f2a187d73c7fb9925e6e15e2"
+    },
+    {
+      "path": "assets/fonts/Social Media Circled.ttf",
+      "sha1": "c95158bf6d3d22846f66a1f78f0c86ad7eea053e"
+    },
+    {
+      "path": "assets/fonts/Social_Shapes.ttf",
+      "sha1": "2191941c2c1ae0d074cffdcb1ccc7f646587d2bf"
+    },
+    {
+      "path": "assets/fonts/Starlight Personal.ttf",
+      "sha1": "2312bb08cee42691c47fe41bb3ecff77815cd2d4"
+    },
+    {
+      "path": "assets/fonts/StretchPro.otf",
+      "sha1": "f1bf659354f0c566fe6aaa72a8efa3cbec6b0f74"
+    },
+    {
+      "path": "assets/fonts/TNanti-Demo.otf",
+      "sha1": "3020b726b32a7f2093f1d56c231048a5825cd0c1"
+    },
+    {
+      "path": "assets/fonts/TOSTADA Italic.ttf",
+      "sha1": "367e415aeaf2250b01357e8a90cabe8eab7630d4"
+    },
+    {
+      "path": "assets/fonts/TOSTADA.ttf",
+      "sha1": "214016e1351c70aaf770d65e19f1ba68218634dc"
+    },
+    {
+      "path": "assets/fonts/typeecon.otf",
+      "sha1": "e6b48f404584352c161bd26a5363084f2d0996f5"
+    },
+    {
+      "path": "assets/fonts/wmcrosses1.TTF",
+      "sha1": "0edd56a5e4ebe7d2cce08306245330e98b77acde"
+    }
+  ]
+}

@@ -12,4 +12,4 @@ import signinrc from './signinrc';
 import registration from './registration';
 import RestAPI from './RestAPI';
 
-AppRegistry.registerComponent(appName, () => RestAPI);
+AppRegistry.registerComponent(appName, () => App);
